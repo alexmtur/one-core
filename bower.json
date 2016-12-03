@@ -1,0 +1,25 @@
+{
+  "name": "one-core",
+  "homepage": "https://github.com/alexmtur/one-elements",
+  "authors": [
+    "Alex Martin <alexmartinturrillas@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#latest",
+    "one-link": "latest",
+    "one-navbar": "latest",
+    "one-page": "latest"
+  },
+  "devDependencies": {
+  }
+}
