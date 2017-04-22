@@ -16,9 +16,12 @@
   ],
   "dependencies": {
     "polymer": "Polymer/polymer#latest",
+    "one-style": "latest",
+    "one-app": "latest",
     "one-link": "latest",
     "one-navbar": "latest",
-    "one-page": "latest"
+    "one-page": "latest",
+    "one-slide-box": "latest"
   },
   "devDependencies": {
   }
